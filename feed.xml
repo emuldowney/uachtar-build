@@ -3,8 +3,8 @@
   <channel>
     <title>Uachtar</title>
     <description>I'm a professional pastry chef and baker. I have worked many restaurants in Ireland and abroad, including Michelin star and 4AA Rosette award winners. I established Uachtar in 2020 with the goal of producing high quality home produce. From traditional brown bread to celebratory cakes, I bake everything in a home kitchen in Co. Kilkenny. You will regularly find me selling at the Carlow Farmer's Market.</description>
-    <link>http://0.0.0.0:4000/uachtar-demo//</link>
-    <atom:link href="http://0.0.0.0:4000/uachtar-demo//feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://0.0.0.0:4000/uachtar-build/</link>
+    <atom:link href="http://0.0.0.0:4000/uachtar-build/feed.xml" rel="self" type="application/rss+xml" />
     <pubDate>Mon, 07 Feb 2022 22:40:07 +0000</pubDate>
     <lastBuildDate>Mon, 07 Feb 2022 22:40:07 +0000</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
@@ -14,8 +14,8 @@
         <description>
 </description>
         <pubDate>Sat, 18 Jul 2020 00:00:00 +0100</pubDate>
-        <link>http://0.0.0.0:4000/uachtar-demo//cakes/2020/07/18/project-1/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/uachtar-demo//cakes/2020/07/18/project-1/</guid>
+        <link>http://0.0.0.0:4000/uachtar-build/cakes/2020/07/18/project-1/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/uachtar-build/cakes/2020/07/18/project-1/</guid>
         
         
         <category>Cakes</category>
@@ -27,8 +27,8 @@
         <description>
 </description>
         <pubDate>Fri, 17 Jul 2020 00:00:00 +0100</pubDate>
-        <link>http://0.0.0.0:4000/uachtar-demo//cakes/2020/07/17/project-2/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/uachtar-demo//cakes/2020/07/17/project-2/</guid>
+        <link>http://0.0.0.0:4000/uachtar-build/cakes/2020/07/17/project-2/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/uachtar-build/cakes/2020/07/17/project-2/</guid>
         
         
         <category>Cakes</category>
@@ -40,8 +40,8 @@
         <description>
 </description>
         <pubDate>Thu, 16 Jul 2020 00:00:00 +0100</pubDate>
-        <link>http://0.0.0.0:4000/uachtar-demo//cakes/2020/07/16/project-3/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/uachtar-demo//cakes/2020/07/16/project-3/</guid>
+        <link>http://0.0.0.0:4000/uachtar-build/cakes/2020/07/16/project-3/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/uachtar-build/cakes/2020/07/16/project-3/</guid>
         
         
         <category>Cakes</category>
@@ -53,8 +53,8 @@
         <description>
 </description>
         <pubDate>Wed, 15 Jul 2020 00:00:00 +0100</pubDate>
-        <link>http://0.0.0.0:4000/uachtar-demo//cakes/2020/07/15/project-4/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/uachtar-demo//cakes/2020/07/15/project-4/</guid>
+        <link>http://0.0.0.0:4000/uachtar-build/cakes/2020/07/15/project-4/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/uachtar-build/cakes/2020/07/15/project-4/</guid>
         
         
         <category>Cakes</category>
@@ -66,8 +66,8 @@
         <description>
 </description>
         <pubDate>Tue, 14 Jul 2020 00:00:00 +0100</pubDate>
-        <link>http://0.0.0.0:4000/uachtar-demo//cakes/2020/07/14/project-6/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/uachtar-demo//cakes/2020/07/14/project-6/</guid>
+        <link>http://0.0.0.0:4000/uachtar-build/cakes/2020/07/14/project-6/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/uachtar-build/cakes/2020/07/14/project-6/</guid>
         
         
         <category>Cakes</category>
@@ -79,8 +79,8 @@
         <description>
 </description>
         <pubDate>Tue, 14 Jul 2020 00:00:00 +0100</pubDate>
-        <link>http://0.0.0.0:4000/uachtar-demo//cakes/2020/07/14/project-5/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/uachtar-demo//cakes/2020/07/14/project-5/</guid>
+        <link>http://0.0.0.0:4000/uachtar-build/cakes/2020/07/14/project-5/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/uachtar-build/cakes/2020/07/14/project-5/</guid>
         
         
         <category>Cakes</category>
